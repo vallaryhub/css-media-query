@@ -1,0 +1,22 @@
+@media(min-width: 576px)
+ {
+    h3{
+        color: red;
+        text-transform: uppercase;
+        text-decoration: underline;
+    }
+}
+
+@media(min-width: 768) 
+{
+   .header{
+    background-color: #d40606b3;
+    ;
+   } 
+   h3{
+    color: #fff;
+    text-align: center;
+   }
+
+
+}
